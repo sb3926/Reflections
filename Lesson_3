@@ -2,3 +2,6 @@ Lesson 3 Reflection:
 GitHub
 git remote add aliase remote-url
 then push local to remote
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Probably a shared drive with the files. Updating with changes would be easier. But updating multiple copies by multiple people will be harder.
